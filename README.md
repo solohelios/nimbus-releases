@@ -1,9 +1,8 @@
-# OPS Manager Desktop — Releases
+# Releases
 
-Instaladores del cliente de escritorio de OPS Manager (Windows) con auto-actualizacion.
-El codigo fuente vive en el repositorio privado `ops-manager`.
+Installers and update manifests for the desktop client.
 
-## Descargar
+## Download
 
-Pestana **Releases** -> ultimo `OPS-Manager-Setup-*.exe` -> doble clic.
-Si Windows muestra SmartScreen: **Mas informacion -> Ejecutar de todos modos** (instalador sin firmar).
+Open the **Releases** tab and download the latest `Nimbus-Setup-*.exe`, then double-click.
+If Windows shows SmartScreen ("Windows protected your PC"): **More info -> Run anyway** (the installer is not code-signed).
